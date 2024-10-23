@@ -2,8 +2,8 @@
 
 :root {
     --cor-principal: #ffffff;
-    --cor-secundaria: #284260;
-    --cor-destaque: #efaefc;
+    --cor-secundaria: #ffffff;
+    --cor-destaque: #d88ee7;
    
     body {
         background: url('img/wallp.avif');
