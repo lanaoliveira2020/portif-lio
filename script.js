@@ -36,3 +36,9 @@ document.addEventListener('DOMContentLoaded', function(){
 
 })
 
+ScrollReveal().reveal('#Eu sou Alana', { delay: 500 });
+ScrollReveal().reveal('#Eu estou cursando no ensino médio', { delay: 500 });
+ScrollReveal().reveal('#HTML', { delay: 500 });
+ScrollReveal().reveal('#CSS', { delay: 500 });
+ScrollReveal().reveal('#JavaScript', { delay: 500 });
+ScrollReveal().reveal('#Scratch', { delay: 500 });
